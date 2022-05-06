@@ -7,6 +7,6 @@ linked* next;
 };
 int main()
 {
-    
+    linked l;
     return 0;
 }
